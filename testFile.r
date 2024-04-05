@@ -1,20 +1,13 @@
-# make some visualization in R
+# make some random visualization in R to test it's working
 
-# load the data
-data <- read.csv("data.csv")
+# Load the ggplot2 package
+library(ggplot2)
 
-# make a scatter plot
-plot(data$X, data$Y, xlab="X", ylab="Y", main="Scatter Plot")
+# Create a data frame
+data <- data.frame(x = rnorm(100), y = rnorm(100))
 
-# make a histogram
-hist(data$X, xlab="X", main="Histogram")
+# Create a scatterplot
+ggplot(data, aes(x = x, y = y)) + geom_point()
 
-# make a boxplot
-boxplot(data$X, xlab="X", main="Boxplot")
-
-# make a density plot
-plot(density(data$X), xlab="X", main="Density Plot")
-
-# make a barplot
-barplot(table(data$X), xlab="X", ylab="Frequency", main="Barplot")
-#
+# Save the plot as a PNG file
+ggsave("testPlot.png")
