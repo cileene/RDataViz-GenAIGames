@@ -1,4 +1,4 @@
-![Example Image](./images/example.png)
+![VSC setup](./images/example.png) ![plot example1](./images/example2.png) ![stacked barchart example](./images/example3.png)
 This is a rep dedicated to dataViz in R for the RUC 2. semester paper on the use of GenAI in the videogames industry. We will here (try) to utilize R and jupyter notebook to better understand our survey, SoMe and interview data.
 
 
