@@ -21,3 +21,7 @@ steps to setup R & Jupyter Notebook in VSC
 - close R console 'q()' and restart
 
 - install R extension in VSC https://marketplace.visualstudio.com/items?itemName=REditorSupport.r
+
+- else
+
+- ask google or chatGPT (or me)
