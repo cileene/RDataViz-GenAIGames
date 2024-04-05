@@ -1,4 +1,5 @@
 # make some random visualization in R to test it's working
+# and print to file when run
 
 # Load the ggplot2 package
 library(ggplot2)
