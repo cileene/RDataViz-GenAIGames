@@ -3,7 +3,7 @@ This is a rep dedicated to dataViz in R for the RUC 2. semester paper on the use
 
 steps to setup R & Jupyter Notebook in VSC
 
-- Download R from the Comprehensive R Archive Network (CRAN) at https://cran.r-project.org/.
+- download R from the Comprehensive R Archive Network (CRAN) at https://cran.r-project.org/.
 
 - pip3 install jupyter
 
