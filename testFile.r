@@ -12,4 +12,3 @@ ggplot(data, aes(x = x, y = y)) + geom_point()
 
 # Save the plot as a PNG file
 ggsave("testPlot.png")
-
