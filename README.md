@@ -12,7 +12,7 @@ steps to setup R & Jupyter Notebook in VSC
 - install.packages('IRkernel')
   IRkernel::installspec(user = FALSE)
 
-- install.packages("ggplot2")
+- install.packages("tidyverse")
 
 - install.packages("readxl")
   library(readxl)
