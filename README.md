@@ -15,7 +15,6 @@ steps to setup R & Jupyter Notebook in VSC
 - install.packages("tidyverse")
 
 - install.packages("readxl")
-  library(readxl)
 
 - close R console 'q()' and restart
 
