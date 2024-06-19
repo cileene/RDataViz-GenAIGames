@@ -26,5 +26,3 @@ steps to setup R & Jupyter Notebook in VSC
 
 - ask google or chatGPT (or me)
 ![plot example1](./images/example2.png) ![stacked barchart example](./images/example3.png)
-
-
